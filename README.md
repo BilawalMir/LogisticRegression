@@ -25,9 +25,9 @@ To run this notebook, you'll need the following libraries installed:
 You can install these using pip:
 
 ```bash
-pip install numpy pandas matplotlib seaborn scikit-learn
-
-# Dataset
+pip install numpy pandas matplotlib seaborn scikit-learn.
+```
+## Dataset
 The dataset used in this project is the Titanic dataset.  It should be placed in the same directory as the notebook or provide the correct path to the CSV file. The code assumes the file is named titanic_dataset.csv.
 
 ## Running the Code
